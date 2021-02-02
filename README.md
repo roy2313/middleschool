@@ -1,10 +1,1 @@
-* # 中考
-   * ## [数学](https://roy2313.github.io/middleschool/middle/math/)
-   * ## [语文](https://roy2313.github.io/middleschool/middle/chinese/)
-   * ## [英语](https://roy2313.github.io/middleschool/middle/english/)
-   * ## [物理](https://roy2313.github.io/middleschool/middle/physics/)
-   * ## [化学](https://roy2313.github.io/middleschool/middle/chemistry/)
-   * ## [生物](https://roy2313.github.io/middleschool/middle/biology/)
-   * ## [政治](https://roy2313.github.io/middleschool/middle/ethics/)
-   * ## [历史](https://roy2313.github.io/middleschool/middle/history/)
-   * ## [地理](https://roy2313.github.io/middleschool/middle/geography/)
+# 初中资料
